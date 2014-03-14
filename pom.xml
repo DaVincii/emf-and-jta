@@ -17,9 +17,9 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>org.apache.commons</groupId>
-			<artifactId>commons-lang3</artifactId>
-			<version>3.1</version>
+			<groupId>org.apache.commonss</groupId>
+			<artifactId>commons-lang3s</artifactId>
+			<version>3.1s</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jboss.spec</groupId>
