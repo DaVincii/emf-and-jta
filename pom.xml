@@ -1,19 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-	<modelVersion>4.0.0s</modelVersion>
-	<groupId>com.piotrnowickis</groupId>
-	<artifactId>emf-jtas</artifactId>
-	<version>0.0.1-SNAPSHOTs</version>
-	<packaging>wars</packaging>
 
-	<url>http://www.piotrnowicki.com</url>
-	<scm>
-		<url>https://github.com/PiotrNowicki/emf-and-jta</url>
-	</scm>
-
-	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	</properties>
 
 	<dependencies>
 		<dependency>
@@ -34,9 +19,7 @@
 				<artifactId>mguration>
 			</plugin>
 			<plugin</version>
-				<configuration>
-					<source>1.7</source>
-					<target>1.7</target>
+
 				</configuration>
 			</plugin>
 		</plugins>
